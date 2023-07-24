@@ -1,0 +1,35 @@
+/* body {
+    overflow-x: hidden;
+} */
+.kotak {
+    width: 262px;
+    height: 172px;
+    background-color: #f5d247;
+    border-radius: 10px;
+}
+
+.kotak2 {
+    width: 367px;
+    height: 299px;
+    background-color: #f5d247;
+    padding: 25px;
+}
+.kotak3 {
+    width: 451px;
+    height: 299px;
+    background-color: #f5d247;
+    padding: 25px;
+}
+
+.opsi {
+    width: 367px;
+    height: 48px;
+    background-color: #f5d247;
+}
+.text-color {
+    color: #fff;
+}
+@font-face {
+    font-family: "inter";
+    src: url(/public/Inter-VariableFont_slnt\,wght.ttf);
+}
